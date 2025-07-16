@@ -2,7 +2,8 @@
 A hybrid AI framework combining BERT-based semantic analysis with OWL/RDF ontological reasoning for automated requirements engineering. Achieves 92.7% classification accuracy with 35x processing speedup over manual analysis.
 Overview
 The SREF (Semantic Requirements Engineering Framework) repository contains the complete implementation of a cutting-edge research framework that revolutionizes how software requirements are processed, validated, and managed. This open-source project bridges the critical gap between academic advances in Natural Language Processing and practical industrial requirements engineering needs.
-What This Repository Provides
+What This Repository Provides:
+
 🔬 Research Implementation
 
 Complete source code for the SREF framework published in IEEE Access
